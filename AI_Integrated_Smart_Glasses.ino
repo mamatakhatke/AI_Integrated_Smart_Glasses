@@ -1,5 +1,5 @@
 void testCameraModule() {
-
+// sample
 // Test case: Camera initialization
 
 TEST_ASSERT_EQUAL(ESP_OK, initCamera());
@@ -27,8 +27,7 @@ Flutter Application Testing
 
 Code
 
-void main() {
-
+void main() 
 test Widgets('Voice command recognition test', (tester) async {
 
 await tester.pump Widget(MyApp());
